@@ -26,7 +26,7 @@ Simply run the file using the command "python task1-prediction.py."
 The script will create 'test1.out' and 'dev1.out' files in the same directory.
 
 
-2) 'TASK1.ipynb'
+2) 
 'TASK1.ipynb' contains all the code from data preparation, model, training, and prediction on dev and test
 Upload the file to Google Drive and open it on Colab
 Upload the files 'train,' 'dev,' and 'test' in Colab
@@ -44,7 +44,7 @@ Simply run the file using the command "python task2-prediction.py."
 The script will create 'test2.out' and 'dev2.out' files in the same directory
 
 
-2) 'TASK2.ipynb'
+2) 
 'TASK2.ipynb' contains all the code from data preparation, model, training, and prediction on dev and test
 Upload the file to Google Drive and open it on Colab
 Upload the files 'train', 'dev', and 'test' in Colab
